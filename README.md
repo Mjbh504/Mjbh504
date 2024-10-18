@@ -16,9 +16,11 @@
 <h2> <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
 <h3>🛠 Tech Stack</h3>
+<ol type="c">
+    <li> 💻Python | R | C# | .NET | VBA </li>
+    <li> 🌐HTML | CSS | JavaScript | Bootstrap</li>
+    <li> 🛢MySQL | SQL Server</li>
+    <li> 🔧Power platform | Microsoft fabric | Dynamics 365 | Visual Studio code | Git</li>
+    <li> 🖥 Gimp | Inkscape | Krita | Scribus </li>
+ </ol>
 
-- 💻 &nbsp; Python | R | C# | .NET | VBA   
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | SQL Server 
-- 🔧 &nbsp; Power platform | Microsoft fabric | Dynamics 365 | Visual Studio code | Git
-- 🖥 &nbsp; Gimp | Inkscape | Krita | Scribus
