@@ -1,2 +1,1 @@
-## Hi i´m Mauricio
-![Añadir un subtítulo](https://github.com/user-attachments/assets/bc6a621e-4d8e-466b-a0ff-2130c68fb956)
+<h2> Hey there! I'm Mauricio <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
