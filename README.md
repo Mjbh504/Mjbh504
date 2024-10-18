@@ -24,7 +24,7 @@
     <li> 🖥 Gimp | Inkscape | Krita | Scribus </li>
  </ol>
 
- # 📊 GitHub Stats:
+ <h3> 📊 GitHub Stats: </h3>
 
 <div class="stats-container">
   <div class="stat-item">
